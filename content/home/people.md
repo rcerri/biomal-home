@@ -1,11 +1,14 @@
 ---
 widget: people
 active: true
-user_groups:
+
+content:
+  user_groups:
   - Principal Investigators
   - Graduate Students
   - Undergraduate Students
   - Alumni
+
 widget_id: people
 headless: true
 weight: 30
