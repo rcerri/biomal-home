@@ -1,3 +1,5 @@
+authors:
+  - admin
 ---
 title: Ricardo Cerri
 role: Assistant Professor
