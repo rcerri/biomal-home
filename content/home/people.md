@@ -1,7 +1,8 @@
 ---
 widget: people
 active: true
-user_groups:
+content:
+  user_groups:
   - Principal Investigators
   - Graduate Students
   - Undergraduate Students
