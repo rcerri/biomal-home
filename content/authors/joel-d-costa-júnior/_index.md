@@ -1,8 +1,8 @@
 ---
 organizations:
-  - name: University of Sao Paulo
-    url: https://fcfrp.usp.br/pt/
-weigth: 5
+  - name: Federal University of São Carlos
+    url: https://www.ufscar.br
+weigth: 1
 title: Joel D. Costa Júnior
 role: PhD Student
 bio: My research interests include Machine Learning, Artificial Intelligence and
@@ -17,19 +17,19 @@ social:
     link: /#
   - icon: envelope
     icon_pack: fas
-    link: mailto:renatoacsantos@gmail.com
+    link: mailto:joel.costa@ufscar.br
   - icon: graduation-cap
     icon_pack: fas
-    link: https://scholar.google.com.br/citations?user=22CKgnIAAAAJ&hl=en
+    link: https://scholar.google.es/citations?user=c3EbOa8AAAAJ&hl=en
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/in/renato-augusto-corr%C3%AAa-dos-santos-263202132/
+    link: https://www.linkedin.com/in/joel-costa-jr/
   - icon: lattes
     icon_pack: ai
-    link: http://lattes.cnpq.br/3339727232509001
+    link: http://lattes.cnpq.br/5293958366030922
   - icon: orcid
     icon_pack: ai
-    link: https://orcid.org/0000-0003-0826-5479
+    link: https://orcid.org/0000-0002-9439-8595
 education:
   courses:
     - course: PhD in Artificial Intelligence
