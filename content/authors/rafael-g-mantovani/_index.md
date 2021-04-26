@@ -1,7 +1,7 @@
 ---
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Federal Technological University of Paraná
+    url: http://www.utfpr.edu.br/campus/apucarana
 superuser: true
 authors:
   - admin
@@ -14,21 +14,24 @@ interests:
   - Artificial Intelligence
   - Bioinformatics
 social:
+  - icon: home
+    icon_pack: fas
+    link: #
   - icon: envelope
     icon_pack: fas
-    link: /#contact
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: mailto:rafaelmantovani@utfpr.edu.br
   - icon: graduation-cap
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://scholar.google.com/citations?user=lRFTBFgAAAAJ&hl=pt-BR
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/rafael-gomes-mantovani-7ba50725/
+  - icon: lattes
+    icon_pack: ai
+    link: http://lattes.cnpq.br/3753471203485400
+  - icon: orcid
+    icon_pack: ai
+    link: https://orcid.org/0000-0001-9564-106X
 education:
   courses:
     - course: PhD in Artificial Intelligence
