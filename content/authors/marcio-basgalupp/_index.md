@@ -14,6 +14,9 @@ interests:
   - Artificial Intelligence
   - Bioinformatics
 social:
+  - icon: home
+    icon_pack: ai
+    link: https://sites.google.com/site/basgalupp/
   - icon: envelope
     icon_pack: fas
     link: mailto:basgalupp@unifesp.br
