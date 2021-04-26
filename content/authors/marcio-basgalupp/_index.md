@@ -15,7 +15,7 @@ interests:
   - Bioinformatics
 social:
   - icon: home
-    icon_pack: ai
+    icon_pack: fas
     link: https://sites.google.com/site/basgalupp/
   - icon: envelope
     icon_pack: fas
