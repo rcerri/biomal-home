@@ -16,7 +16,7 @@ interests:
   - Bioinformatics
 social:
   - icon: home
-    icon_pack: ai
+    icon_pack: fas
     link: http://sites.google.com/site/cerrirc/
   - icon: envelope
     icon_pack: fas
