@@ -5,6 +5,7 @@ organizations:
 superuser: true
 authors:
   - admin
+weight: 1
 title: Ricardo Cerri
 role: Assistant Professor
 bio: My research interests include Machine Learning, Artificial Intelligence and
