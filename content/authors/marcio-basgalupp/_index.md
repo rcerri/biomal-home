@@ -1,7 +1,7 @@
 ---
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Federal University of São Paulo
+    url: https://www.unifesp.br/campus/sjc/
 superuser: true
 authors:
   - admin
@@ -16,19 +16,19 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: /#contact
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: mailto:basgalupp@unifesp.br
   - icon: graduation-cap
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://scholar.google.com/citations?user=uW5tdUQAAAAJ&hl=en
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/m%C3%A1rcio-basgalupp-27361419/
+  - icon: lattes
+    icon_pack: ai
+    link: http://lattes.cnpq.br/4922142296922435 
+  - icon: orcid
+    icon_pack: ai
+    link: https://orcid.org/0000-0002-2005-1249
 education:
   courses:
     - course: PhD in Artificial Intelligence
