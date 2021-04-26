@@ -39,8 +39,9 @@ education:
       year: 2008
 email: ""
 superuser: true
-user_groups:
-  - Principal Investigators
+# user_groups:
+#  - Principal Investigators
+user_groups = ["Principal Investigators"]
 highlight_name: false
 authors:
   - admin
