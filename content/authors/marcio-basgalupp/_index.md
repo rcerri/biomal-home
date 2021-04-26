@@ -5,8 +5,7 @@ organizations:
 superuser: true
 authors:
   - admin
-weight: 2
-title: Marcio Basgalupp
+title: Marcio P. Basgalupp
 role: Associate Professor
 bio: My research interests include Machine Learning, Artificial Intelligence and
   Bioinformatics
@@ -41,10 +40,11 @@ education:
     - course: BSc in Artificial Intelligence
       institution: Massachusetts Institute of Technology
       year: 2008
+email: ""
 user_groups:
   - Principal Investigators
 highlight_name: false
-email: ""
+weight: 2
 ---
 
 Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
