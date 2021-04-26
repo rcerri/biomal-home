@@ -9,5 +9,8 @@ design:
   background:
     text_color_light: false
     image_darken: 0
+  spacing:
+    # Customize the section spacing. Order is top, right, bottom, left.
+    padding: ["20px", "0", "20px", "0"]
 ---
 {{< figure src="logofinalBioMal-2.PNG" caption="" >}}
