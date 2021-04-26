@@ -9,6 +9,9 @@ design:
   background:
     text_color_light: false
     image_darken: 0
+  spacing:
+    # Customize the section spacing. Order is top, right, bottom, left.
+    padding: ["10px", "0", "10px", "0"]
 ---
 ### About
 
