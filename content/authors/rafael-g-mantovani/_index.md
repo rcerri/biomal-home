@@ -47,5 +47,4 @@ email: ""
 user_groups:
   - Principal Investigators
 highlight_name: false
-weight: 2
 ---
