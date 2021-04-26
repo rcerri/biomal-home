@@ -5,6 +5,7 @@ organizations:
 superuser: true
 authors:
   - admin
+weight: 2
 title: Marcio Basgalupp
 role: Associate Professor
 bio: My research interests include Machine Learning, Artificial Intelligence and
