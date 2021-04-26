@@ -16,10 +16,14 @@ design:
   background:
     text_color_light: false
     image_darken: 0
-  show_social: false
-  show_interests: true
+  # Show user's social networking links? (true/false)
+  show_social: true
+  # Show user's interests? (true/false)
+  show_interests: false
+  # Show user's role?
   show_role: true
-  show_organizations: true
+  # Show user's organizations/affiliations?
+  show_organizations: false
   spacing:
     # Customize the section spacing. Order is top, right, bottom, left.
     padding: ["10px", "0", "10px", "0"]
