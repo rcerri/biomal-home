@@ -15,6 +15,9 @@ interests:
   - Artificial Intelligence
   - Bioinformatics
 social:
+  - icon: home
+    icon_pack: ai
+    link: http://sites.google.com/site/cerrirc/
   - icon: envelope
     icon_pack: fas
     link: mailto:cerri@ufscar.br
