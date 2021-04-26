@@ -16,7 +16,7 @@ interests:
 social:
   - icon: home
     icon_pack: fas
-    link: #
+    link: /#
   - icon: envelope
     icon_pack: fas
     link: mailto:rafaelmantovani@utfpr.edu.br
