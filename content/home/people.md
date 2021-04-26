@@ -1,18 +1,15 @@
 ---
 widget: people
 active: true
-
-content:
-  user_groups:
+user_groups:
   - Principal Investigators
   - Graduate Students
   - Undergraduate Students
   - Alumni
-
 widget_id: people
 headless: true
 weight: 30
-title: Bla Bla
+title: ""
 design:
   columns: "2"
   background:
@@ -23,4 +20,3 @@ design:
   show_role: true
   show_organizations: true
 ---
-bla abla
