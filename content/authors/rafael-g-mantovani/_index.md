@@ -5,6 +5,7 @@ organizations:
 superuser: true
 authors:
   - admin
+weight: 3
 title: Rafael G. Mantovani
 role: Assistant Professor
 bio: ""
