@@ -5,6 +5,7 @@ organizations:
 superuser: true
 authors:
   - admin
+weight: 4
 title: Thayana V. Tavares
 role: BSc in Biotechnology
 bio: My research interests include Machine Learning, Artificial Intelligence and
@@ -19,16 +20,16 @@ social:
     link: /#
   - icon: envelope
     icon_pack: fas
-    link: mailto:avitorasse@gmail.com
+    link: mailto:thayana.vt@gmail.com
   - icon: graduation-cap
     icon_pack: fas
     link: /#
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/in/ana-paula-vitorasse-b2904b1a5/
+    link: https://www.linkedin.com/in/thayana-tavares-1070aa186/
   - icon: lattes
     icon_pack: ai
-    link: http://lattes.cnpq.br/9227594140803488
+    link: http://lattes.cnpq.br/6055583178395953
   - icon: orcid
     icon_pack: ai
     link: /#
@@ -47,5 +48,4 @@ email: ""
 user_groups:
   - Undergraduate Students
 highlight_name: false
-weight: 3
 ---
