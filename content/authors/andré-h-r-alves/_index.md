@@ -5,6 +5,7 @@ organizations:
 superuser: true
 authors:
   - admin
+weight: 4
 title: André H. R. Alves
 role: Msc Student
 bio: My research interests include Machine Learning, Artificial Intelligence and
@@ -16,22 +17,22 @@ interests:
 social:
   - icon: home
     icon_pack: fas
-    link: http://www.professoracissagatto.com.br/
+    link: /#
   - icon: envelope
     icon_pack: fas
-    link: mailto:elaine_gatto@ufscar.br
+    link: mailto:andrehallwas12@hotmail.com
   - icon: graduation-cap
     icon_pack: fas
-    link: https://scholar.google.com.br/citations?user=f8UJfeYAAAAJ&hl=pt-BR
+    link: https://scholar.google.com/citations?user=PQWij0kAAAAJ&hl=en
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/in/elainececiliagatto/
+    link: https://www.linkedin.com/in/andre-hallwas-85a91b16a/
   - icon: lattes
     icon_pack: ai
-    link: http://lattes.cnpq.br/8559022477811603
+    link: http://lattes.cnpq.br/7234224268038252
   - icon: orcid
     icon_pack: ai
-    link: https://orcid.org/0000-0002-3322-6407
+    link: https://orcid.org/0000-0001-8869-1149
 education:
   courses:
     - course: PhD in Artificial Intelligence
@@ -47,5 +48,4 @@ email: ""
 user_groups:
   - Graduate Students
 highlight_name: false
-weight: 3
 ---
