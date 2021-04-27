@@ -5,6 +5,7 @@ organizations:
 superuser: true
 authors:
   - admin
+weight: 8
 title: Gabriel C. dos Santos
 role: Msc Student
 bio: My research interests include Machine Learning, Artificial Intelligence and
@@ -19,16 +20,16 @@ social:
     link: /#
   - icon: envelope
     icon_pack: fas
-    link: mailto:osvaldobreno99@gmail.com
+    link: mailto:kapizany@gmail.com
   - icon: graduation-cap
     icon_pack: fas
-    link: https://scholar.google.com.br/citations?user=Kh1hqvwAAAAJ&hl=En
+    link: /#
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/in/breno-osvaldo-funicheli-27740515a/
+    link: https://www.linkedin.com/in/gabriel-capizani-12bb6b10a/
   - icon: lattes
     icon_pack: ai
-    link: http://lattes.cnpq.br/1264469349936693
+    link: http://lattes.cnpq.br/5171912258543166
   - icon: orcid
     icon_pack: ai
     link: /#
@@ -47,5 +48,4 @@ email: ""
 user_groups:
   - Graduate Students
 highlight_name: false
-weight: 7
 ---
