@@ -1,10 +1,11 @@
 ---
 organizations:
-  - name: Federal University of São Carlos
-    url: https://www.ufscar.br
+  - name: University of São Paulo
+    url: http://www.ifsc.usp.br/
 superuser: true
 authors:
   - admin
+weight: 6
 title: Pedro de C. B. Ilidio Silva
 role: Msc Student
 bio: My research interests include Machine Learning, Artificial Intelligence and
@@ -19,16 +20,16 @@ social:
     link: /#
   - icon: envelope
     icon_pack: fas
-    link: mailto:rodney.souza@unesp.br
+    link: mailto:ilidio@usp.br
   - icon: graduation-cap
     icon_pack: fas
     link: /#
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/in/rodney-souza/
+    link: https://www.linkedin.com/in/pedroilidio/
   - icon: lattes
     icon_pack: ai
-    link: http://lattes.cnpq.br/8041590543117912
+    link: http://lattes.cnpq.br/3785399246125260
   - icon: orcid
     icon_pack: ai
     link: /#
@@ -47,5 +48,4 @@ email: ""
 user_groups:
   - Graduate Students
 highlight_name: false
-weight: 5
 ---
