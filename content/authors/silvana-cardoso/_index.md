@@ -5,6 +5,7 @@ organizations:
 superuser: true
 authors:
   - admin
+weight: 2
 title: Silvana Cardoso
 role: BSc in Engineering Physics
 bio: My research interests include Machine Learning, Artificial Intelligence and
@@ -19,16 +20,16 @@ social:
     link: /#
   - icon: envelope
     icon_pack: fas
-    link: mailto:moraes.luan1997@gmail.com
+    link: mailto:scardoso.el@gmail.com
   - icon: graduation-cap
     icon_pack: fas
     link: /#
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/in/luanmoraex/
+    link: https://www.linkedin.com/in/silvana-cardoso-31a277134/
   - icon: lattes
     icon_pack: ai
-    link: http://lattes.cnpq.br/2590190539349649
+    link: http://lattes.cnpq.br/8019921532058854
   - icon: orcid
     icon_pack: ai
     link: /#
@@ -47,5 +48,4 @@ email: ""
 user_groups:
   - Undergraduate Students
 highlight_name: false
-weight: 1
 ---
