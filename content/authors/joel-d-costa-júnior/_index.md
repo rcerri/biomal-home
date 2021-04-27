@@ -2,7 +2,7 @@
 organizations:
   - name: Federal University of São Carlos
     url: https://www.ufscar.br
-weigth: 1
+weight: 1
 title: Joel D. Costa Júnior
 role: PhD Student
 bio: My research interests include Machine Learning, Artificial Intelligence and
