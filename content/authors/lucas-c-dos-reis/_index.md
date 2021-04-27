@@ -5,6 +5,7 @@ organizations:
 superuser: true
 authors:
   - admin
+weight: 6
 title: Lucas C. dos Reis
 role: BSc in Computer Science
 bio: My research interests include Machine Learning, Artificial Intelligence and
@@ -19,16 +20,16 @@ social:
     link: /#
   - icon: envelope
     icon_pack: fas
-    link: mailto:julianaferreira@estudante.ufscar.br
+    link: mailto:lcr.ergo@gmail.com
   - icon: graduation-cap
     icon_pack: fas
     link: /#
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/in/juliana-ferreira-alves-50a1a916b/
+    link: https://www.linkedin.com/in/lucas-cruz-dos-reis-545016177/
   - icon: lattes
     icon_pack: ai
-    link: http://lattes.cnpq.br/0104274733044968
+    link: /#
   - icon: orcid
     icon_pack: ai
     link: /#
@@ -47,5 +48,4 @@ email: ""
 user_groups:
   - Undergraduate Students
 highlight_name: false
-weight: 5
 ---
