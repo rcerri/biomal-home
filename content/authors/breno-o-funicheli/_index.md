@@ -1,10 +1,11 @@
 ---
 organizations:
-  - name: University of São Paulo
-    url: http://www.ifsc.usp.br/
+  - name: Federal University of São Carlos
+    url: http://www.ufscar.br
 superuser: true
 authors:
   - admin
+weight: 7
 title: Breno O. Funicheli
 role: Msc Student
 bio: My research interests include Machine Learning, Artificial Intelligence and
@@ -19,16 +20,16 @@ social:
     link: /#
   - icon: envelope
     icon_pack: fas
-    link: mailto:ilidio@usp.br
+    link: mailto:osvaldobreno99@gmail.com
   - icon: graduation-cap
     icon_pack: fas
-    link: /#
+    link: https://scholar.google.com.br/citations?user=Kh1hqvwAAAAJ&hl=En
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/in/pedroilidio/
+    link: https://www.linkedin.com/in/breno-osvaldo-funicheli-27740515a/
   - icon: lattes
     icon_pack: ai
-    link: http://lattes.cnpq.br/3785399246125260
+    link: http://lattes.cnpq.br/1264469349936693
   - icon: orcid
     icon_pack: ai
     link: /#
@@ -47,5 +48,4 @@ email: ""
 user_groups:
   - Graduate Students
 highlight_name: false
-weight: 6
 ---
