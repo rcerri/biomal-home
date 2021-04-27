@@ -2,7 +2,7 @@
 organizations:
   - name: Federal University of São Carlos
     url: https://www.ufscar.br
-weigth: 2
+weight: 2
 title: Thiago Z. Miranda
 role: PhD Student
 bio: My research interests include Machine Learning, Artificial Intelligence and
