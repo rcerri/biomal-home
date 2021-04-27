@@ -5,6 +5,7 @@ organizations:
 superuser: true
 authors:
   - admin
+weight: 5
 title: Rodney R. de Souza Silva
 role: Msc Student
 bio: My research interests include Machine Learning, Artificial Intelligence and
@@ -19,19 +20,19 @@ social:
     link: /#
   - icon: envelope
     icon_pack: fas
-    link: mailto:andrehallwas12@hotmail.com
+    link: mailto:rodney.souza@unesp.br
   - icon: graduation-cap
     icon_pack: fas
-    link: https://scholar.google.com/citations?user=PQWij0kAAAAJ&hl=en
+    link: /#
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/in/andre-hallwas-85a91b16a/
+    link: https://www.linkedin.com/in/rodney-souza/
   - icon: lattes
     icon_pack: ai
-    link: http://lattes.cnpq.br/7234224268038252
+    link: http://lattes.cnpq.br/8041590543117912
   - icon: orcid
     icon_pack: ai
-    link: https://orcid.org/0000-0001-8869-1149
+    link: /#
 education:
   courses:
     - course: PhD in Artificial Intelligence
@@ -47,5 +48,4 @@ email: ""
 user_groups:
   - Graduate Students
 highlight_name: false
-weight: 4
 ---
