@@ -2,7 +2,7 @@
 organizations:
   - name: Federal University of São Carlos
     url: https://www.ufscar.br
-weigth: 3
+weight: 3
 title: Elaine C. Gatto
 role: PhD Student
 bio: My research interests include Machine Learning, Artificial Intelligence and
