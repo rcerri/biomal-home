@@ -5,6 +5,7 @@ organizations:
 superuser: true
 authors:
   - admin
+weight: 5
 title: Juliana F. Alves
 role: BSc in Computer Engineering
 bio: My research interests include Machine Learning, Artificial Intelligence and
@@ -19,16 +20,16 @@ social:
     link: /#
   - icon: envelope
     icon_pack: fas
-    link: mailto:thayana.vt@gmail.com
+    link: mailto:julianaferreira@estudante.ufscar.br
   - icon: graduation-cap
     icon_pack: fas
     link: /#
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/in/thayana-tavares-1070aa186/
+    link: https://www.linkedin.com/in/juliana-ferreira-alves-50a1a916b/
   - icon: lattes
     icon_pack: ai
-    link: http://lattes.cnpq.br/6055583178395953
+    link: http://lattes.cnpq.br/0104274733044968
   - icon: orcid
     icon_pack: ai
     link: /#
@@ -47,5 +48,4 @@ email: ""
 user_groups:
   - Undergraduate Students
 highlight_name: false
-weight: 4
 ---
