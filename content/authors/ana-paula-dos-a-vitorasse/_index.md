@@ -5,6 +5,7 @@ organizations:
 superuser: true
 authors:
   - admin
+weight: 3
 title: Ana Paula dos A. Vitorasse
 role: BSc in Statistics
 bio: My research interests include Machine Learning, Artificial Intelligence and
@@ -19,16 +20,16 @@ social:
     link: /#
   - icon: envelope
     icon_pack: fas
-    link: mailto:scardoso.el@gmail.com
+    link: mailto:avitorasse@gmail.com
   - icon: graduation-cap
     icon_pack: fas
     link: /#
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/in/silvana-cardoso-31a277134/
+    link: https://www.linkedin.com/in/ana-paula-vitorasse-b2904b1a5/
   - icon: lattes
     icon_pack: ai
-    link: http://lattes.cnpq.br/8019921532058854
+    link: http://lattes.cnpq.br/9227594140803488
   - icon: orcid
     icon_pack: ai
     link: /#
@@ -47,5 +48,4 @@ email: ""
 user_groups:
   - Undergraduate Students
 highlight_name: false
-weight: 2
 ---
