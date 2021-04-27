@@ -5,6 +5,7 @@ organizations:
 superuser: true
 authors:
   - admin
+weight: 1
 title: Luan V. Moraes da Silva
 role: BSc in Computer Engineering
 bio: My research interests include Machine Learning, Artificial Intelligence and
@@ -19,16 +20,16 @@ social:
     link: /#
   - icon: envelope
     icon_pack: fas
-    link: mailto:kapizany@gmail.com
+    link: mailto:moraes.luan1997@gmail.com
   - icon: graduation-cap
     icon_pack: fas
     link: /#
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/in/gabriel-capizani-12bb6b10a/
+    link: https://www.linkedin.com/in/luanmoraex/
   - icon: lattes
     icon_pack: ai
-    link: http://lattes.cnpq.br/5171912258543166
+    link: http://lattes.cnpq.br/2590190539349649
   - icon: orcid
     icon_pack: ai
     link: /#
@@ -47,5 +48,4 @@ email: ""
 user_groups:
   - Undergraduate Students
 highlight_name: false
-weight: 8
 ---
