@@ -3,7 +3,7 @@ widget: pages
 widget_id: talks
 headless: true
 weight: 70
-title: Talks
+title: Featured Talks
 subtitle: null
 active: true
 content:
