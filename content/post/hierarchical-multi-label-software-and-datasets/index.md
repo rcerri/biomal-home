@@ -10,6 +10,8 @@ summary: >-
   * Hierarchical Multi-label Classification with Neural Networks, as described by [Cerri et al., 2015](http://dx.doi.org/10.1109/ijcnn.2015.7280474) and [Cerri et al., 2016](http://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-016-1232-1)
 draft: false
 featured: false
+authors:
+  - "-"
 image:
   filename: featured.png
   focal_point: Smart
