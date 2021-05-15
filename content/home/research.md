@@ -6,7 +6,6 @@ weight: 120
 title: Research
 subtitle: ""
 content:
-  taxonomy: tags
   count: 20
 design:
   font_size_min: 0.7
