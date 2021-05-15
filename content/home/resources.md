@@ -5,6 +5,7 @@ headless: true
 weight: 70
 title: Resources
 subtitle: null
+active: false
 content:
   page_type: event
   count: 5
