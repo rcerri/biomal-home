@@ -1,11 +1,11 @@
 ---
 title: Multi-label Stream Classification Software and Datasets
 date: 2021-05-15T14:49:15.120Z
-summary: >-
-  Access HERE source code and datasets from our contribution (Cerri et al.,
-  2021) presented in the 36th ACM Symposium on Applied Computing (2021).\
-
-  In this contribution, we propose an online unsupervised incremental method based on self-organizing maps for multi-label stream classification in scenarios with infinitely delayed labels.
+summary: Access HERE source code and datasets from our contribution (Cerri et
+  al., 2021) presented in the 36th ACM Symposium on Applied Computing (2021). In
+  this contribution, we propose an online unsupervised incremental method based
+  on self-organizing maps for multi-label stream classification in scenarios
+  with infinitely delayed labels.
 draft: false
 featured: false
 authors:
