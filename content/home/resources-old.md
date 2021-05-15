@@ -1,9 +1,9 @@
 ---
 widget: pages
-widget_id: resources-old
+widget_id: talks
 headless: true
 weight: 70
-title: Resources-old
+title: Talks
 subtitle: null
 active: false
 content:
