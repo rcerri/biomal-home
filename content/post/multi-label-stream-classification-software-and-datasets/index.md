@@ -3,7 +3,8 @@ title: Multi-label Stream Classification Software and Datasets
 date: 2021-05-15T14:49:15.120Z
 draft: false
 featured: false
-authors: []
+authors:
+  - "-"
 image:
   filename: featured
   focal_point: Smart
