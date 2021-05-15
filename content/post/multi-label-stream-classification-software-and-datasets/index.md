@@ -11,7 +11,7 @@ featured: false
 authors:
   - "-"
 image:
-  filename: featured
+  filename: som-stream.png
   focal_point: Smart
   preview_only: false
 ---
