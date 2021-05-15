@@ -19,7 +19,7 @@ image:
 
 - - -
 
-Here you can find the [source code](http://www.biomal.ufscar.br/resources/somML/Codes.zip) for the method SOM-Stream-ML, as described by [Cerri et al., 2021](https://doi.org/10.1145/3412841.3441922) (to appear). Our proposal is an online unsupervised incremental method based on self-organizing maps for multi-label stream classification in scenarios with infinitely delayed labels.\
+Here you can find the [source code](http://www.biomal.ufscar.br/resources/somML/Codes.zip) for the method SOM-Stream-ML, as described by [Cerri et al., 2021](https://doi.org/10.1145/3412841.3441922). Our proposal is an online unsupervised incremental method based on self-organizing maps for multi-label stream classification in scenarios with infinitely delayed labels.\
 All our implementations were performed in R. This [README](http://www.biomal.ufscar.br/resources/somML/README.txt) file describes the basic steps to execute our code.
 
 ## Datasets
