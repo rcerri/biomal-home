@@ -2,11 +2,12 @@
 title: Hierarchical Multi-Label Software and Datasets
 date: 2021-05-15T17:54:17.781Z
 summary: >-
-  Access HERE source code and datasets for the following HMC methods:\
+  Access HERE source code and datasets for the following HMC methods:
 
-  - Hierachical Multi-label Classification with a Genetic Algorithm (HMC-GA), as described by [Cerri et al., 2019](https://www.sciencedirect.com/science/article/abs/pii/S1568494619300213)\
 
-  - Hierarchical Multi-label Classification with Neural Networks, as described by [Cerri et al., 2015](http://dx.doi.org/10.1109/ijcnn.2015.7280474) and [Cerri et al., 2016](http://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-016-1232-1)
+  * Hierachical Multi-label Classification with a Genetic Algorithm (HMC-GA), as described by [Cerri et al., 2019](https://www.sciencedirect.com/science/article/abs/pii/S1568494619300213)
+
+  * Hierarchical Multi-label Classification with Neural Networks, as described by [Cerri et al., 2015](http://dx.doi.org/10.1109/ijcnn.2015.7280474) and [Cerri et al., 2016](http://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-016-1232-1)
 draft: false
 featured: false
 image:
