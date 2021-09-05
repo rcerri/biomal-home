@@ -19,7 +19,7 @@ item:
     content: ""
     align: center
     overlay_color: ""
-    overlay_img: Workshop-Python-2018_adobe.jpeg
+    overlay_img: Workshop-Python-2018.jpg
     overlay_filter: 0
     cta_label: ""
     cta_url: ""
