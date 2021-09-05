@@ -4,7 +4,7 @@ widget_id: my-slider
 headless: true
 weight: 20
 active: true
-height: '500px; background-position:center; background-repeat: no-repeat; background-size: cover'
+height: '25vh; background-position:center; background-repeat: no-repeat; background-size: cover'
 design:
   columns: "1"
   background:
