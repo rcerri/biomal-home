@@ -1,5 +1,5 @@
 ---
-widget: slider
+widget: Slider
 interval: 4000
 active: true
 height: 300px
@@ -68,7 +68,7 @@ item:
     overlay_filter: 0
     cta_label: ""
     cta_url: ""
-widget_id: slider
+widget_id: Slider
 headless: true
 weight: 10
 design:
