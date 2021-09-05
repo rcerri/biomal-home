@@ -2,7 +2,7 @@
 widget: blank
 widget_id: about
 headless: true
-weight: 20
+weight: 30
 active: true
 design:
   columns: "2"
@@ -10,8 +10,11 @@ design:
     text_color_light: false
     image_darken: 0
   spacing:
-    # Customize the section spacing. Order is top, right, bottom, left.
-    padding: ["20px", "0", "20px", "0"]
+    padding:
+      - 20px
+      - "0"
+      - 20px
+      - "0"
 ---
 ### About
 
