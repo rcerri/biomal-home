@@ -26,7 +26,7 @@ item:
     content: ""
     align: center
     overlay_color: ""
-    overlay_img: Christinelli-Sensors-2021.png
+    overlay_img: Christinelli-Sensors-2021.jpeg
     overlay_filter: 0
     cta_label: ""
     cta_url: ""
