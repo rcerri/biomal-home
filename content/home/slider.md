@@ -8,7 +8,7 @@ item:
     content: ""
     align: center
     overlay_color: ""
-    overlay_img: Workshop-Python-2018-800.jpg
+    overlay_img: Workshop-Python-2018.jpg
     overlay_filter: 0
     cta_label: ""
     cta_url: ""
@@ -17,7 +17,7 @@ item:
     align: center
     overlay_filter: 0
     overlay_color: ""
-    overlay_img: Christinelli-Sensors-2021-800.jpg
+    overlay_img: Christinelli-Sensors-2021.png
     title: ""
     content: ""
   - title: ""
@@ -25,14 +25,6 @@ item:
     align: center
     overlay_color: ""
     overlay_img: Miranda-ESWA-2021.png
-    overlay_filter: 0
-    cta_label: ""
-    cta_url: ""
-  - title: ""
-    content: ""
-    align: center
-    overlay_color: ""
-    overlay_img: Amaral-Comp-Bioch-2019.png
     overlay_filter: 0
     cta_label: ""
     cta_url: ""
