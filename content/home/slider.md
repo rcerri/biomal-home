@@ -1,5 +1,5 @@
 ---
-widget: hero
+widget: slider
 interval: 4000
 active: true
 height: 300px
@@ -12,14 +12,6 @@ item:
     overlay_filter: 0
     cta_label: ""
     cta_url: ""
-  - cta_url: ""
-    cta_label: ""
-    align: center
-    overlay_filter: 0
-    overlay_color: ""
-    overlay_img: Christinelli-Sensors-2021-800.jpg
-    title: ""
-    content: ""
   - title: ""
     content: ""
     align: center
