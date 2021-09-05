@@ -5,7 +5,7 @@ headless: true
 weight: 20
 active: true
 #height: '30vh; background-position:center; background-repeat: no-repeat; background-size: cover'
-height: '30vh; background-position:center; background-repeat: no-repeat'
+height: '300px; background-position:center; background-repeat: no-repeat'
 design:
   columns: "1"
   background:
