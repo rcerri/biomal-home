@@ -1,5 +1,5 @@
 ---
-widget: hero
+widget: slider
 interval: 4000
 active: true
 height: 300px
