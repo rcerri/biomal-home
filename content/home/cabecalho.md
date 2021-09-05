@@ -1,6 +1,6 @@
 ---
 widget: blank
-widget_id: cabecalho
+widget_id: Cabecalho
 headless: true
 weight: 10
 active: true
@@ -10,7 +10,10 @@ design:
     text_color_light: false
     image_darken: 0
   spacing:
-    # Customize the section spacing. Order is top, right, bottom, left.
-    padding: ["10px", "0", "10px", "0"]
+    padding:
+      - 10px
+      - "0"
+      - 10px
+      - "0"
 ---
 {{< figure src="logofinalBioMal-2.PNG" caption="" >}}
