@@ -16,7 +16,7 @@ design:
     image_parallax: true
 item:
   - title: ""
-    content: ""
+    content: "<div style=\"height: 300px\"></div>"
     align: center
     overlay_color: ""
     overlay_img: Workshop-Python-2018.jpg
