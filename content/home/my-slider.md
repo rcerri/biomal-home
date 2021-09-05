@@ -22,8 +22,6 @@ item:
     overlay_filter: 0
     cta_label: ""
     cta_url: ""
-    width: '300px'
-    height: '300px' 
   - title: ""
     content: ""
     align: center
