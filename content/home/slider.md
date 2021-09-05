@@ -15,7 +15,7 @@ item:
   - cta_url: ""
     cta_label: ""
     align: center
-    height: 300
+    # height: 300
     overlay_filter: 0
     overlay_color: ""
     overlay_img: Christinelli-Sensors-2021-800.jpg
