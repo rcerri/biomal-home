@@ -8,7 +8,7 @@ item:
     content: ""
     align: center
     overlay_color: ""
-    overlay_img: Workshop-Python-2018.jpg
+    overlay_img: Workshop-Python-2018-800.jpg
     overlay_filter: 0
     cta_label: ""
     cta_url: ""
@@ -62,7 +62,7 @@ item:
     cta_url: ""
 widget_id: slider
 headless: true
-weight: 10
+weight: 1
 design:
   columns: "1"
   background:
@@ -70,6 +70,5 @@ design:
     image_darken: 0
     image_position: center
     image_size: cover
-    #image_parallax: true
+    image_parallax: true
 ---
-
