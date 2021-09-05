@@ -9,7 +9,7 @@ content:
     - Alumni
 widget_id: people
 headless: true
-weight: 40
+weight: 50
 title: ""
 design:
   columns: "2"
