@@ -19,7 +19,7 @@ item:
     content: ""
     align: center
     overlay_color: ""
-    overlay_img: {{< figure src="/assets/media/ASOC-Cerri-2019.png" height="300" width="300" >}}
+    overlay_img: {{< figure src="/media/ASOC-Cerri-2019.png" height="300" width="300" >}}
     overlay_filter: 0
     cta_label: ""
     cta_url: ""
