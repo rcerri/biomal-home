@@ -15,6 +15,7 @@ design:
       - "0"
       - 20px
       - "0"
+hero_media: logofinalBioMal-2.PNG
 ---
 ### About
 
