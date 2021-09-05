@@ -2,7 +2,7 @@
 widget: portfolio
 widget_id: projects
 headless: true
-weight: 50
+weight: 60
 title: Financed Projects
 subtitle: ""
 content:
