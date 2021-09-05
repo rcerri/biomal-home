@@ -21,13 +21,13 @@ design:
 ---
 ## 2021
 
+[](http://dx.doi.org/10.1016/j.ins.2021.08.022)BASGALUPP, MARCIO P. ; CERRI, RICARDO ; SCHIETGAT, LEANDER ; TRIGUERO, I. ; VENS, C. [Beyond global and local multi-target learning](https://dx.doi.org/10.1016/j.ins.2021.08.022). INFORMATION SCIENCES, 2021.
+
 CHRISTINELLI, W. A. ; SHIMIZU, F. M. ; FACURE, M. H. M. ; CERRI, R. ; OLIVEIRA JR., O. N. ; CORREA, D. S. ; MATTOSO, L. H. C. [Two-dimensional MoS2-based impedimetric electronic tongue for the discrimination of endocrine disrupting chemicals using machine learning](https://doi.org/10.1016/j.snb.2021.129696). SENSORS AND ACTUATORS B-CHEMICAL, 2021.
 
 MIRANDA, THIAGO ZAFALON ; SARDINHA, DIORGE BROGNARA ; CERRI, RICARDO. [Preventing the generation of inconsistent sets of crisp classification rules](https://doi.org/10.1016/j.eswa.2020.113811). EXPERT SYSTEMS WITH APPLICATIONS, 2021.
 
 CERRI, R.; COSTA JUNIOR, J. D. ; FARIA, ELAINE ; GAMA, JOAO. [A new Self-Organizing Map based Algorithm for Multi-label Stream Classification](https://doi.org/10.1145/3412841.3441922). In Proceedings of the 36th Annual ACM Symposium on Applied Computing (SAC '21). Association for Computing Machinery, New York, NY, USA, 418–426, 2021.
-
-
 
 ## 2020
 
@@ -36,8 +36,6 @@ SANTOS, B. Z. ; KENJI NAKANO, FELIPE ; CERRI, RICARDO ; VENS, CELINE. [Predictiv
 NAKANO, FELIPE KENJI ; CERRI, RICARDO ; VENS, CELINE. [Active learning for hierarchical multi-label classification](http://dx.doi.org/10.1007/s10618-020-00704-w). DATA MINING AND KNOWLEDGE DISCOVERY, p. 1-35, 2020.
 
 MASTELINI, SAULO MARTIELLO ; SANTANA, EVERTON JOSE ; CERRI, R. ; BARBON, S. J. DSTARS: [A multi-target deep structure for tracking asynchronous regressor stacking](http://dx.doi.org/10.1007/978-3-030-67664-3_42). APPLIED SOFT COMPUTING, p. 106215-27, 2020.
-
-
 
 ## 2019
 
@@ -53,8 +51,6 @@ CERRI, RICARDO; BASGALUPP, MÁRCIO P. ; BARROS, RODRIGO C. ; CARVALHO, ANDRÉ CA
 
 MASTELINI, SAULO MARTIELLO ; DA COSTA, VICTOR GUILHERME TURRISI ; SANTANA, EVERTON JOSE ; NAKANO, FELIPE KENJI ; GUIDO, RODRIGO CAPOBIANCO ; CERRI, RICARDO ; BARBON, SYLVIO. Multi-Output Tree Chaining: [An Interpretative Modelling and Lightweight Multi-Target Approach](http://dx.doi.org/10.1007/s11265-018-1376-5). JOURNAL OF SIGNAL PROCESSING SYSTEMS FOR SIGNAL, IMAGE, AND VIDEO TECHNOLOGY (ONLINE), v. 91, p. 191-215, 2019.
 
-
-
 ## 2018
 
 SCHIETGAT, L. ; VENS, C. ; CERRI, R. ; FISCHER, C. N. ; COSTA, E. P. ; Ramon, J ; CARARETO, C. M. ; BLOCKEEL, H. [A machine learning based framework to identify and classify long terminal repeat retrotransposons](https://doi.org/10.1371/journal.pcbi.1006097). PLOS COMPUTATIONAL BIOLOGY (ONLINE), v. 14, p. e1006097.
@@ -68,8 +64,6 @@ NAKANO, F. K. ; MASTELINI, S. ; BARBON JUNIOR, S. ; CERRI, RICARDO. [Improving H
 PEREIRA, G. T. ; SANTOS, B. Z. ; CERRI, RICARDO . [A Genetic Algorithm for Transposable Elements Hierarchical Classification Rule Induction](https://doi.org/10.1109/CEC.2018.8477642). In: IEEE International Congress on Evolutionary Computation (CEC), 2018, Rio de Janeiro. [](http://www.biomal.ufscar.br/publications.html#)[[DOI](https://doi.org/10.1109/CEC.2018.8477642)]
 
 CERRI, RICARDO; MANTOVANI, R. G. ; BASGALUPP, MARCIO P. ; Carvalho, A. C. P. L. F . [Multi-label Feature Selection Techniques for Hierarchical Multi-label Protein Function Prediction](https://doi.org/10.1109/IJCNN.2018.8489247). In: International Joint Conference on Neural Networks (IJCNN), 2018, Rio de Janeiro.
-
-
 
 ## 2017
 
