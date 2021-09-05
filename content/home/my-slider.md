@@ -4,7 +4,7 @@ widget_id: my-slider
 headless: true
 weight: 20
 active: true
-height: 400px
+height: '300px; background-position:center; background-repeat: no-repeat; background-size: cover'
 design:
   columns: "1"
   background:
@@ -22,8 +22,6 @@ item:
     overlay_filter: 0
     cta_label: ""
     cta_url: ""
-    width: 300px
-    height: 300px
   - title: ""
     content: ""
     align: center
@@ -32,8 +30,6 @@ item:
     overlay_filter: 0
     cta_label: ""
     cta_url: ""
-    width: 300px
-    height: 300px
   - title: ""
     content: ""
     align: center
