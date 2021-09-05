@@ -1,5 +1,5 @@
 ---
-widget: slider
+widget: blank
 interval: 4000
 active: true
 height: 300px
