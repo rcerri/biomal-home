@@ -5,6 +5,7 @@ headless: true
 weight: 20
 active: true
 height: '500px; background-position:center; background-repeat: no-repeat; background-size: cover'
+width: '500px'
 design:
   columns: "1"
   background:
