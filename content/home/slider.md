@@ -62,7 +62,7 @@ item:
     cta_url: ""
 widget_id: slider
 headless: true
-weight: 1
+weight: 20
 design:
   columns: "1"
   background:
