@@ -4,10 +4,10 @@ headless: true
 interval: 4000
 active: true
 height: 300px
-widget_id: Slider
+widget_id: slider
 weight: 10
 design:
-  columns: 1
+  columns: 2
   background:
     text_color_light: false
     image_darken: 0
