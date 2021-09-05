@@ -1,26 +1,14 @@
 ---
-widget: slider
-headless: true
+widget: hero
 interval: 4000
 active: true
 height: 300px
-widget_id: slider
-weight: 10
-design:
-  columns: 2
-  background:
-    text_color_light: false
-    image_darken: 0
-    image_position: center
-    image_size: cover
-    image_parallax: true
 item:
   - title: ""
     content: ""
     align: center
     overlay_color: ""
     overlay_img: Workshop-Python-2018-800.jpg
-    #height = calc(100vh - 70px)
     overlay_filter: 0
     cta_label: ""
     cta_url: ""
@@ -80,4 +68,15 @@ item:
     overlay_filter: 0
     cta_label: ""
     cta_url: ""
+widget_id: slider
+headless: true
+weight: 10
+design:
+  columns: 2
+  background:
+    text_color_light: false
+    image_darken: 0
+    image_position: center
+    image_size: cover
+    image_parallax: true
 ---
