@@ -3,7 +3,7 @@ widget: blank
 widget_id: about
 headless: true
 weight: 20
-active: true
+active: false
 design:
   columns: "2"
   background:
