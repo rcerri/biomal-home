@@ -2,7 +2,7 @@
 widget: blank
 widget_id: about
 headless: true
-weight: 30
+weight: 40
 active: true
 design:
   columns: "2"
