@@ -70,6 +70,6 @@ design:
     image_darken: 0
     image_position: center
     image_size: cover
-    image_parallax: true
+    #image_parallax: true
 ---
 
