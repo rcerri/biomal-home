@@ -16,10 +16,10 @@ design:
     image_parallax: true
 item:
   - title: ""
-    content: "<div style=\"height: 300\"></div>"
+    content: ""
     align: center
     overlay_color: ""
-    overlay_img: Workshop-Python-2018.jpg
+    overlay_img: {{< figure src="/assets/media/Workshop-Python-2018.jpg" height="300" width="300" >}}
     overlay_filter: 0
     cta_label: ""
     cta_url: ""
