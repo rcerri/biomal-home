@@ -5,7 +5,6 @@ headless: true
 weight: 20
 active: true
 height: '500px; background-position:center; background-repeat: no-repeat; background-size: cover'
-width: '500px'
 design:
   columns: "1"
   background:
@@ -23,6 +22,8 @@ item:
     overlay_filter: 0
     cta_label: ""
     cta_url: ""
+    width: '300px'
+    height: '300px' 
   - title: ""
     content: ""
     align: center
