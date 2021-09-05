@@ -4,11 +4,15 @@ widget_id: my-slider
 headless: true
 weight: 20
 active: true
+height: 400px
 design:
   columns: "1"
   background:
     text_color_light: false
     image_darken: 0
+    image_position: center
+    image_size: cover
+    image_parallax: true
 item:
   - title: ""
     content: ""
