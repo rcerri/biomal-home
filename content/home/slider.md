@@ -1,8 +1,19 @@
 ---
 widget: slider
+headless: true
 interval: 4000
 active: true
 height: 300px
+widget_id: Slider
+weight: 10
+design:
+  columns: 1
+  background:
+    text_color_light: false
+    image_darken: 0
+    image_position: center
+    image_size: cover
+    image_parallax: true
 item:
   - title: ""
     content: ""
@@ -68,15 +79,4 @@ item:
     overlay_filter: 0
     cta_label: ""
     cta_url: ""
-widget_id: Slider
-headless: true
-weight: 10
-design:
-  columns: 1
-  background:
-    text_color_light: false
-    image_darken: 0
-    image_position: center
-    image_size: cover
-    image_parallax: true
 ---
