@@ -17,7 +17,7 @@ interests:
 social:
   - icon: home
     icon_pack: fas
-    link: http://sites.google.com/site/cerrirc/
+    link: http://www.dc.ufscar.br/~cerri
   - icon: envelope
     icon_pack: fas
     link: mailto:cerri@ufscar.br

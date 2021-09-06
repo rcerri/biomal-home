@@ -6,10 +6,10 @@ weight: 100
 title: Recent News
 active: true
 design:
-  columns: ""
-  background:
-    text_color_light: false
-    image_darken: ""
+  columns: "2"
+  # background:
+  #  text_color_light: false
+  #  image_darken: ""
 ---
 ### [01/02/2021 - New research project approved!](https://bv.fapesp.br/en/auxilios/107677/identification-of-snps-and-genes-related-to-grain-yield-in-rice-using-machine-learning/)
 

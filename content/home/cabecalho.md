@@ -16,4 +16,4 @@ design:
       - 10px
       - "0"
 ---
-{{< figure src="logofinalBioMal-2.PNG" caption="" >}}
+{{< figure src="Biomal-DC-UFSCar-Transparente3.png" caption="" width="5000" height="5000">}}
