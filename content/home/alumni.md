@@ -10,7 +10,7 @@ content:
   page_type: project
   filter_default: 0
 design:
-  columns: "1"
+  columns: "2"
   view: 2
   flip_alt_rows: false
 ---
