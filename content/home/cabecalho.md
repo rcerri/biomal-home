@@ -2,7 +2,6 @@
 widget: blank
 widget_id: Cabecalho
 headless: true
-height: 300px
 weight: 10
 active: true
 design:
@@ -17,4 +16,4 @@ design:
       - 10px
       - "0"
 ---
-{{< figure src="Biomal-DC-UFSCar-Transparente3.png" caption="">}}
+{{< figure src="logofinalBioMal-Transp.PNG" caption="">}} {{< figure src="Logo_DC_Azul_Transparente.png" caption="">}}
