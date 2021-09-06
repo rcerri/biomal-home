@@ -3,14 +3,14 @@ widget: slider
 widget_id: my-slider
 headless: true
 weight: 20
-active: false
-height: '500px; background-position:center; background-repeat: no-repeat; background-size: cover'
+active: true
+height: "500px; background-position:center; background-repeat: no-repeat;
+  background-size: cover"
 design:
   columns: "1"
   background:
     text_color_light: false
     image_darken: 0
-    
 item:
   - title: ""
     content: ""
