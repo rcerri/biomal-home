@@ -16,4 +16,4 @@ design:
       - 10px
       - "0"
 ---
-{{< figure src="logofinalBioMal-2.PNG" caption="" >}}
+{{< figure src="logofinalBioMal-Transp.PNG" caption="" >}}
