@@ -2,7 +2,7 @@
 widget: portfolio
 widget_id: alumni
 headless: true
-weight: 60
+weight: 1
 title: Alumni
 subtitle: ""
 active: true
