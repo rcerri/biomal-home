@@ -5,7 +5,7 @@ headless: true
 weight: 10
 active: true
 design:
-  columns: "1"
+  columns: "2"
   background:
     text_color_light: false
     image_darken: 0
@@ -16,4 +16,4 @@ design:
       - 10px
       - "0"
 ---
-{{< figure src="Biomal-DC-UFSCar-Transparente.png" caption="" width="400" height="400">}}
+{{< figure src="Biomal-DC-UFSCar-Transparente.png" caption="" width="800" height="800">}}
