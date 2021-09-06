@@ -46,6 +46,7 @@ education:
       year: 2008
 email: ""
 user_groups:
-  - Undergraduate Students
+  # - Undergraduate Students
+  - Alumni
 highlight_name: false
 ---
