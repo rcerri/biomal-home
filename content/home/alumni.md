@@ -5,7 +5,7 @@ headless: true
 weight: 60
 title: Alumni
 subtitle: ""
-active: true
+active: false
 content:
   page_type: project
   filter_default: 0
