@@ -2,7 +2,7 @@
 widget: pages
 widget_id: resources
 headless: true
-weight: 80
+weight: 90
 title: Resources
 subtitle: null
 active: true
