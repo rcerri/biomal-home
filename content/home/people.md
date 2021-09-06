@@ -22,5 +22,3 @@ design:
   show_organizations: true
   spacing: null
 ---
-
-Alumni
