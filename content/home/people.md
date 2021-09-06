@@ -1,5 +1,9 @@
 ---
 widget: people
+widget_id: people
+headless: true
+weight: 50
+title: ""
 active: true
 content:
   user_groups:
@@ -7,10 +11,6 @@ content:
     - Graduate Students
     - Undergraduate Students
     - Alumni
-widget_id: people
-headless: true
-weight: 50
-title: ""
 design:
   columns: "2"
   background:
@@ -22,3 +22,8 @@ design:
   show_organizations: true
   spacing: null
 ---
+wefwefwefwefhbfkwf
+
+wefjwfjw
+
+we,fn wenfwenfwl
