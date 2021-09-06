@@ -12,25 +12,25 @@ main:
     weight: 50
   - name: Research
     url: '#research'
-    weight: 60
+    weight: 70
   - name: Projects
     url: '#projects'
-    weight: 70
+    weight: 80
   - name: Resources
     url: '#resources'
-    weight: 80
+    weight: 90
   - name: Publications
     url: '#publications'
-    weight: 90
+    weight: 100
   #- name: Talks
   #  url: '#talks'
   #  weight: 70    
   - name: News
     url: '#news'
-    weight: 100    
+    weight: 110    
   - name: Contact
     url: '#contact'
-    weight: 110
+    weight: 120
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
