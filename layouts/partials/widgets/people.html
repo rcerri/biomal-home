@@ -1,0 +1,31 @@
+{{- if ne (index (.Params.user_groups) 0) "Alumni" -}}
+  <div class="col-12 col-sm-auto people-person">
+    {{ $src := "" }}
+    {{ if site.Params.gravatar }}
+    {{ $src = printf "https://s.gravatar.com/avatar/%s?s=200" (md5 .Params.email) }}
+    {{ else if $avatar }}
+    {{ $avatar_image := $avatar.Fill "150x150 Center" }}
+    {{ $src = $avatar_image.RelPermalink }}
+    {{ end }}
+    {{ if $src }}
+    {{with $link}}<a href="{{.}}">{{end}}<img class="portrait" src="{{ $src }}" alt="Avatar">{{if $link}}</a>{{end}}
+    {{ end }}
+    <div class="portrait-title">
+      <h2 style="font-weight: 500;">{{with $link}}<a href="{{.}}">{{end}}{{ .Params.name }}{{if $link}}</a>{{end}}</h2>
+      {{ with .Params.role }}<h3>{{ . | markdownify | emojify }}</h3>{{ end }}
+      {{ if $show_social }}{{ partial "social_links" . }}{{ end }}
+      {{ if and $show_interests .Params.interests }}<p class="people-interests">{{ delimit .Params.interests ", " | markdownify | emojify }}</p>
+      {{ end }}
+    </div>
+  </div>
+  {{ else }}
+  <div class="col-12 col-sm-auto people-person" style='padding-right:5px;padding-left:5px;'>
+    <div class="portrait-title">
+      {{ $link := .Params.external_link }}
+      <h2 style="margin-bottom: 0ex; margin-top: 1pt;">{{with $link}}<a href="{{.}}">{{end}}{{ .Params.name }}{{if $link}}</a>{{end}}</h2>
+      {{ $organization := .Params.organization}}
+      {{- with .Params.role -}}<h3>Now: {{ . | markdownify | emojify }}
+      {{- if $organization }} at {{$organization}}</h3> {{ end -}}{{- end -}}
+    </div>
+  </div>
+  {{-  end -}}
