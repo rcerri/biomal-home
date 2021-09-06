@@ -5,6 +5,7 @@ headless: true
 weight: 70
 title: Research
 subtitle: ""
+active: true
 content:
   count: 20
 design:
