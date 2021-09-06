@@ -2,7 +2,7 @@
 widget: blank
 widget_id: alumni
 headless: true
-weight: 60
+weight: 50
 title: Alumni
 active: true
 design:
@@ -11,3 +11,4 @@ design:
     text_color_light: false
     image_darken: 0
 ---
+er
