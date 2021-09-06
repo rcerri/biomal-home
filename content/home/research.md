@@ -2,7 +2,7 @@
 widget: blank
 widget_id: research
 headless: true
-weight: 60
+weight: 70
 title: Research
 subtitle: ""
 content:
