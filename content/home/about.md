@@ -6,12 +6,12 @@ weight: 40
 active: true
 design:
   columns: "2"
-  spacing:
-    padding:
-      - 20px
-      - "0"
-      - 20px
-      - "0"
+ # spacing:
+ #   padding:
+ #     - 20px
+ #     - "0"
+ #     - 20px
+ #     - "0"
 ---
 ### About
 
