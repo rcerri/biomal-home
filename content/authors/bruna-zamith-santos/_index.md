@@ -6,6 +6,7 @@ organizations:
   - name: Federal University of São Carlos
     url: https://www.ufscar.br
 superuser: true
+weight: 10
 authors:
   - admin
 bio: ""
@@ -19,16 +20,16 @@ social:
     link: /#
   - icon: envelope
     icon_pack: fas
-    link: mailto:aline.valle@muz.ifsuldeminas.edu.br
+    link: mailto:bruna.zamith@hotmail.com
   - icon: graduation-cap
     icon_pack: fas
-    link: /#
+    link: https://scholar.google.com/citations?user=R5K0J-sAAAAJ&hl
   - icon: linkedin
     icon_pack: fab
-    link: /#
+    link: https://www.linkedin.com/in/bruna-zamith/
   - icon: lattes
     icon_pack: ai
-    link: http://lattes.cnpq.br/1961580945745420
+    link: http://lattes.cnpq.br/3805045333740740
   - icon: orcid
     icon_pack: ai
     link: /#
@@ -47,5 +48,4 @@ email: ""
 user_groups:
   - Graduate Students
 highlight_name: false
-weight: 9
 ---
